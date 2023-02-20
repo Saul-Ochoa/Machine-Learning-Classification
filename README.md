@@ -1,2 +1,2 @@
-# Clasificaci-n-de-Predicci-n-Salarial
-Machine Learning
+# Clasificaci0n-de-Predicci0n-Salaria
+
